@@ -1,5 +1,7 @@
-Copyright © 2019 The Noto Project Authors (github.com/googlei18n/noto-fonts)
 Copyright © 2019 The Kinto Project Authors at ookami Inc.
+Copyright © 2019 The Noto Project Authors (github.com/googlei18n/noto-fonts).
+Copyright © 2019 Adobe Systems Incorporated (http://www.adobe.com/).
+
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
