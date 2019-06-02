@@ -16,6 +16,7 @@ It's also painfully complicated to adjust glyphs and character settings in many 
 
 That is where Kinto comes in, a Japanese font family adapted from the typeface itself to match size & balance with _made for screen & UI_ Latin typefaces. Japanese glyphs in this font family has been simply scaled down by 4.4% (100% -> 95.6%) with baseline adjusted to align with other glyphs in the family. 
 
+_Comparison between Kinto Sans and its original fork Noto Sans JP_<br>
 <img src="https://user-images.githubusercontent.com/3750705/58755945-5b188e00-8529-11e9-8631-973234e48dc7.gif" width="480px">
 
 Kinto can be used in combination of many popular sans-serif typeface used in interfaces like Apple San Francisco Pro, Google Roboto, Segoe UI, Ariel, Helvetica, Inter...
