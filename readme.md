@@ -32,7 +32,7 @@ Please create a Github [issue](https://github.com/ookamiinc/kinto/issues) and pr
 
 Fork the Kinto repository on Github to your own account then clone it locally.
 
-For all new features or bug fixes please create an issue in the main repository first (so we can track what goes into each release) then simply submit a pull request from your own fork into the original `develop` branch. To make sure the changes are easily reviewable please repect the format set out in `PULL_REQUEST_TEMPLATE.md`.
+For all new features or bug fixes please create an issue in the main repository first (so we can track what goes into each release) then simply submit a pull request from your own fork into the original `develop` branch. To make sure the changes are easily reviewable please describe the context of your PR as simple as possible. 
 
 ## Acknowledgements
 
