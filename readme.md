@@ -44,7 +44,9 @@ For all new features or bug fixes please create an issue in the main repository 
 
 This project is based off [Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP), a part of [Google Noto Fonts](https://www.google.com/get/noto/) project.
 
-→ [Noto Fonts Repository](https://github.com/googlefonts/noto-fonts)
-
+→ [Noto Fonts Repository](https://github.com/googlefonts/noto-fonts) <br>
 → [Noto CJK Repository](https://github.com/googlefonts/noto-cjk)
 
+## Inquiries
+
+→ design@ookamiinc.com
