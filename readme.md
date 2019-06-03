@@ -18,7 +18,7 @@ That is where Kinto comes in, a Japanese font family adapted from the typeface i
 
 <img src="https://user-images.githubusercontent.com/3750705/58755945-5b188e00-8529-11e9-8631-973234e48dc7.gif" width="480px">
 
-Kinto can be used in combination of many popular sans-serif typeface used in interfaces like Apple San Francisco Pro, Google Roboto, Segoe UI, Ariel, Helvetica, Inter...
+Kinto can be used in combination with many popular sans-serif typefaces such as Apple San Francisco Pro, Google Roboto, Segoe UI, Arial, Helvetica, Inter.
 
 ## Download
 
