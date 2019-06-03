@@ -16,7 +16,7 @@ When Japanese text is rendered on screens, there are chances that the characters
 
 That is where Kinto comes in, a Japanese font family adapted from the typeface itself to match size & balance with _made for screen & UI_ Latin typefaces. Japanese glyphs in this font family has been simply scaled down with its baseline adjusted to align with other glyphs in the family. By process, it is precisely scaled down by 4.4% (100% → 95.6%) to mimick the way Japanese text is rendered on iOS as System Font. Thus, this typeface comes in handy when designing Japanese interfaces for iOS. 
 
-Kinto can be used in combination with many popular sans-serif typefaces such as Apple San Francisco Pro, Google Roboto, Segoe UI, Arial, Helvetica, Inter.
+Kinto can be used in combination with many popular sans-serif typefaces such as [Apple San Francisco](https://developer.apple.com/fonts/), [Google Roboto](https://fonts.google.com/specimen/Roboto), [Segoe UI](https://docs.microsoft.com/en-us/typography/font-list/segoe-ui), [Inter](https://github.com/rsms/inter), Arial, Helvetica and more...
 
 ---
 
