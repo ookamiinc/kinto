@@ -10,7 +10,7 @@
 
 ## Introduction
 
-![Demo](https://user-images.githubusercontent.com/3750705/58759883-d56a0200-856b-11e9-99f6-1f71bda8afad.gif)
+![Demo](https://user-images.githubusercontent.com/3750705/58846844-a06cc500-86bb-11e9-8258-745da818b5fe.gif)
 
 When Japanese text is rendered on screens, there are chances that the characters are poorly displayed in terms of glyph size and baseline alignment. This is especially noticeable when numerals or Latin characters are displayed along with Japanese characters, making elements on interfaces hard to read. It's also painfully complicated to adjust glyphs and character settings in many of these screen environments from designing to shipping these interfaces.
 
