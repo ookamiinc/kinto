@@ -1,5 +1,7 @@
 # Kinto
 
+[English](README.md)
+
 ### 目次
 
 - [はじめに](#はじめに)
