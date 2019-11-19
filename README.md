@@ -1,5 +1,7 @@
 # Kinto
 
+[日本語](README.Japanese.md)
+
 ### Table of Contents
 
 - [Introduction](#introduction)
