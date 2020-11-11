@@ -51,8 +51,8 @@ Github上のリポジトリをあなたのアカウントでフォークして�
 
 ---
 
-English Readme by @riomarmccartney & @nancytru
-日本語Readme by @matarillo
+英語 Readme by @riomarmccartney & @nancytru <br>
+日本語 Readme by @matarillo
 
 ## お問い合わせ
 

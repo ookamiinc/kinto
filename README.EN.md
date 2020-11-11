@@ -51,8 +51,8 @@ This project is based off [Noto Sans JP](https://fonts.google.com/specimen/Noto+
 
 ---
 
-English readme authored by @riomarmccartney & @nancytru
-Japanese readme authored by @matarillo
+English Readme by @riomarmccartney & @nancytru <br>
+Japanese Readme by @matarillo
 
 ## Inquiries
 
