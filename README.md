@@ -1,54 +1,59 @@
 # Kinto
 
-[日本語](README.Japanese.md)
+[English](README.EN.md)
 
-### Table of Contents
+### 目次
 
-- [Introduction](#introduction)
-- [Download](#download)
-- [Report Bugs & Suggestions](#report-bugs--suggestions)
-- [Development](#development)
-- [Acknowledgements](#acknowledgements)
+- [はじめに](#はじめに)
+- [ダウンロード](#ダウンロード)
+- [バグ報告や提案](#バグ報告や提案)
+- [開発](#開発)
+- [謝辞](#謝辞)
 
-## Introduction
+## はじめに
 
 ![Demo](https://user-images.githubusercontent.com/3750705/58846844-a06cc500-86bb-11e9-8258-745da818b5fe.gif)
 
-When Japanese text is rendered on screens, there are chances that the characters are poorly displayed in terms of glyph size and baseline alignment. This is especially noticeable when numerals or Latin characters are displayed along with Japanese characters, making elements on interfaces hard to read. It's also painfully complicated to adjust glyphs and character settings in many of these screen environments from designing to shipping these interfaces.
+日本語テキストが画面に描画されるとき、グリフのサイズやベースラインのアライメントが不適切で、文字が美しく表示されないことがよくあります。 これは数字やラテン文字が日本語の文字と一緒に表示されるときに顕著になるので、インターフェース要素を読みづらくする原因となります。 インターフェースのデザイン時からリリース時までに対応して、さまざまな画面環境でグリフや文字設定を調整することも、複雑で耐え難いことです。
 
-That is where Kinto comes in, a Japanese font family adapted from the typeface itself to match size & balance with _made for screen & UI_ Latin typefaces. Japanese glyphs in this font family has been simply scaled down with its baseline adjusted to align with other glyphs in the family. By process, it is precisely scaled down by 4.4% (100% → 95.6%) to mimick the way Japanese text is rendered on iOS as System Font. Thus, this typeface comes in handy when designing Japanese interfaces for iOS. 
+そこでKintoの出番です。 Kintoは、 _画面およびUI向け_ ラテン文字書体とサイズやバランスがマッチするよう元の書体から調整された日本語フォントファミリーです。 このフォントの日本語グリフは、フォントファミリー内の他のグリフとベースラインを合わせたまま単純縮小されています。 その際に、日本語グリフは4.4%縮小 (100% → 95.6%) されています。 これはiOSがシステムフォントを使用して日本語テキストを描画する方法を真似たものです。 これによって、この書体はiOS用の日本語インターフェースをデザインするのに適したものとなっています。
 
-Kinto can be used in combination with many popular sans-serif typefaces such as [Apple San Francisco](https://developer.apple.com/fonts/), [Google Roboto](https://fonts.google.com/specimen/Roboto), [Segoe UI](https://docs.microsoft.com/en-us/typography/font-list/segoe-ui), [Inter](https://github.com/rsms/inter), Arial, Helvetica and more...
+Kintoは人気のあるサンセリフ書体の多くと合わせて使えます。たとえば、[Apple San Francisco](https://developer.apple.com/fonts/)、[Google Roboto](https://fonts.google.com/specimen/Roboto)、[Segoe UI](https://docs.microsoft.com/en-us/typography/font-list/segoe-ui)、[Inter](https://github.com/rsms/inter)、Arial、Helveticaなどです。
 
 ---
 
-Kinto is available in 6 weights, starting from the top: Thin, Light, Regular, Medium, Bold and Black.
+Kintoには6種類のウェイトが含まれます。上から順に、Thin、Light、Regular、Medium、Bold、Blackです。
 <p align="left">
   <img src="https://user-images.githubusercontent.com/3750705/58760144-e5371580-856e-11e9-89cd-594487442732.png" width="400px">
 </p>
 
 
-## Download
+## ダウンロード
 
-[Download the latest master](https://github.com/ookamiinc/kinto/archive/master.zip) - It includes TTF, OTF, EOT, WOFF & WOFF2
+[最新のmasterをダウンロードしてください](https://github.com/ookamiinc/kinto/archive/master.zip) - TTF、OTF、EOT、WOFF、WOFF2が含まれます。
 
 
-## Report Bugs & Suggestions
-Please create a Github [issue](https://github.com/ookamiinc/kinto/issues) and provide as much information as possible regarding the bug, including images or error codes. To make things as uniform as possible please follow the guidelines set out in `ISSUE_TEMPLATE.md`.
+## バグ報告や提案
+Github [イシュー](https://github.com/ookamiinc/kinto/issues)を作成して、バグに関する情報をできる限りたくさん提示してください。たとえば、画像やエラーコードなどです。やり方をできるだけ統一するために、 `ISSUE_TEMPLATE.md` に書かれたガイドラインに従ってください。
 
-## Development
+## 開発
 
-Fork the Kinto repository on Github to your own account then clone it locally.
+Github上のリポジトリをあなたのアカウントでフォークして、それをローカルにクローンしてください。
 
-For all new features or bug fixes please create an issue in the main repository first (so we can track what goes into each release) then simply submit a pull request from your own fork into the original `develop` branch. To make sure the changes are easily reviewable please describe the context of your PR as simple as possible. 
+新機能の追加やバグフィックスに関しては、まずメインリポジトリ上にイシューを作成してください（そうすれば私たちは、リリースごとに何を含めているのかを追跡できます）。そして、あなたのフォークからオリジナルの `develop` ブランチにプルリクエストを送ってください。変更に対するレビューをやりやすくするために、プルリクエストの背景をできるだけ簡潔に記載してください。
 
-## Acknowledgements
+## 謝辞
 
-This project is based off [Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP), a part of [Google Noto Fonts](https://www.google.com/get/noto/) project.
+本プロジェクトは、[Google Noto Fonts](https://www.google.com/get/noto/)プロジェクトに含まれている[Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP)に基づいています。
 
-→ [Noto Fonts Repository](https://github.com/googlefonts/noto-fonts) <br>
-→ [Noto CJK Repository](https://github.com/googlefonts/noto-cjk)
+→ [Noto Fonts リポジトリ](https://github.com/googlefonts/noto-fonts) <br>
+→ [Noto CJK リポジトリ](https://github.com/googlefonts/noto-cjk)
 
-## Inquiries
+---
+
+英語 Readme by @riomarmccartney & @nancytru <br>
+日本語 Readme by @matarillo
+
+## お問い合わせ
 
 → design@ookamiinc.com
