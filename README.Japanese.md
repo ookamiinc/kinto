@@ -49,6 +49,11 @@ Github上のリポジトリをあなたのアカウントでフォークして�
 → [Noto Fonts リポジトリ](https://github.com/googlefonts/noto-fonts) <br>
 → [Noto CJK リポジトリ](https://github.com/googlefonts/noto-cjk)
 
+---
+
+English Readme by @riomarmccartney & @nancytru
+日本語Readme by @matarillo
+
 ## お問い合わせ
 
 → design@ookamiinc.com

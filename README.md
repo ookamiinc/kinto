@@ -49,6 +49,11 @@ This project is based off [Noto Sans JP](https://fonts.google.com/specimen/Noto+
 → [Noto Fonts Repository](https://github.com/googlefonts/noto-fonts) <br>
 → [Noto CJK Repository](https://github.com/googlefonts/noto-cjk)
 
+---
+
+English readme authored by @riomarmccartney & @nancytru
+Japanese readme authored by @matarillo
+
 ## Inquiries
 
 → design@ookamiinc.com
